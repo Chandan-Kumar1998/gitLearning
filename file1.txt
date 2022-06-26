@@ -1,2 +1,0 @@
-this is the text file 1 which is used to initiate the git learning..
-this file will be used to understand how git and github functions and their commands..  
